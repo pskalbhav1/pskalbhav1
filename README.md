@@ -1,5 +1,7 @@
 # Hey! I'm Praseedha Praveen Kalbhavi 👋
 
+ <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=pskalbhav1" />
+
 ## :wave: About Me
 
 👩‍ I'm a third year student at **Manipal Institute of Technology** going to intern at **Google** next summer. I'm the **ML Head** as well as **WIE General Secretary** at **IEEE Student Branch Manipal**.
