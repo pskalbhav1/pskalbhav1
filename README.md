@@ -1,7 +1,8 @@
 # Hey! I'm Praseedha Praveen Kalbhavi 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/praseedha-praveen-kalbhavi-bb4091190/)
- <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=pskalbhav1" />
+<img alt="ViewCount" src="https://komarev.com/ghpvc/?username=pskalbhav1" />
+
 
 ## :wave: About Me
 
@@ -36,3 +37,5 @@
 
 ## 💬 &nbsp;Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pskalbhav1&layout=compact)](https://github.com/pskalbhav1/github-readme-stats)
+
+<a href="https://stars.github.com/nominate/">Like what you see then nominate</a>
