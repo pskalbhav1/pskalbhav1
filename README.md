@@ -2,7 +2,7 @@
 
 ## :wave: About Me
 
-👩‍ I'm a third year student at **Manipal Institute of Technology** going to intern at **Google** next summer. 
+👩‍ I'm a third year student at **Manipal Institute of Technology** going to intern at **Google** next summer. I'm the **ML Head** as well as **WIE General Secretary** at **IEEE Student Branch Manipal**.
 
 🌱 I’m currently learning MERN Stack and Cloud Computing.
 
