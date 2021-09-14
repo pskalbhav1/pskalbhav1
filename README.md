@@ -34,8 +34,13 @@
 
 ## ✨ &nbsp;Github Stats
 ![Praseedha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pskalbhav1&show_icons=true&theme=radical)
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=pskalbhav1&theme=radical&show_icons=true&hide_border=true">
+    <img width="40%" align="right" alt="Praseedha's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pskalbhav1&theme=radical&show_icons=true&hide_border=true" />
+</a><br />
+   <br />
 
 ## 💬 &nbsp;Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pskalbhav1&layout=compact)](https://github.com/pskalbhav1/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pskalbhav1&theme=radical)
 
-<a href="https://stars.github.com/nominate/">Like what you see then nominate</a>
+
+<a href="https://stars.github.com/nominate/">**Like what you see then nominate!**</a>
