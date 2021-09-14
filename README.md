@@ -20,6 +20,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
 - 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - 
