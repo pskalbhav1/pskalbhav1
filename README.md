@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning MERN Stack and Cloud Computing.
 
-👯 I’m looking to collaborate on projects in the fields of **Machine Learning** mainly *Image Processing (OpenCV), Natural Language Processing(NLP) and Deep Learning*. I'm also up for basic **full stack development** projects that can help me hone my skills.
+👯 I’m looking to collaborate on projects in the fields of **Machine Learning** mainly *Image Processing (OpenCV), Natural Language Processing(NLP) and Deep Learning*. I'm also up for basic **full stack development** projects that can help me hone my skills. I'm always ready to take part in hackathons.
 
 ## 🛠 &nbsp;Tech Stacks
 - 
