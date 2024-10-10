@@ -6,9 +6,9 @@
 
 ## :wave: About Me
 
-👩‍ I'm a third year student at **Manipal Institute of Technology** who interned at **Google** this summer. I was the **ML Head** as well as **WIE General Secretary** at **IEEE Student Branch Manipal**.
+👩‍ I'm a Software Engineer at **Google**.
 
-🌱 I’m currently learning MERN Stack and Cloud Computing.
+🌱 I’m currently learning NLP and LLMs.
 
 👯 I’m looking to collaborate on projects in the fields of **Machine Learning** mainly *Image Processing (OpenCV), Natural Language Processing(NLP) and Deep Learning*. I'm also up for basic **full stack development** projects that can help me hone my skills. I'm always ready to take part in hackathons.
 
